@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319221551930",
+    "project_id": "fauthentication-e6a36",
+    "storage_bucket": "fauthentication-e6a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319221551930:android:45e6008a14da49dc20f603",
+        "android_client_info": {
+          "package_name": "com.example.fauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319221551930-asnfr0einfcriscf1irsv20ot9a6q4h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fauthentication",
+            "certificate_hash": "ab255c43548eb5cd8e4505b79220223be15cd841"
+          }
+        },
+        {
+          "client_id": "319221551930-ehuc6a33agesmaieae6l1buvmmsuntqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeYg_zDqNdBgrf98QugVhUB2ZMy9GOAr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319221551930-ehuc6a33agesmaieae6l1buvmmsuntqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
